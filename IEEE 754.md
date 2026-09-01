@@ -2,6 +2,8 @@
 
 > A beginner-friendly guide to how computers represent real numbers.  
 > Author: Jiayao Hu
+
+
 [English Version](<IEEE 754.md>) | [中文版本](<IEEE 754 Chinese Simplified.md>) 
 
 
