@@ -116,7 +116,7 @@ Not every bit pattern represents a normal number. The exponent field has reserve
 
 Let's convert **9.625** to IEEE 754 single precision (binary32).
 
-#### Step 1: Convert to b$$
+#### Step 1: Convert to binary
 $$9.625_{10} = 1001.101_2 = 1.001101_2 \times 2^3 \quad \leftarrow \text{normalized form}
 $$
 
