@@ -2,7 +2,8 @@
 
 > 关于计算机如何表示实数的入门指南。  
 > 作者：Jiayao Hu
-> [中文版本](IEEE 754 Chinese Simplified.md) | [English Version](IEEE 754.md)
+
+[English Version](<IEEE 754.md>) | [中文版本](<IEEE 754 Chinese Simplified.md>) 
 
 ## 1. 背景与定义
 
