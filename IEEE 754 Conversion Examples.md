@@ -2,6 +2,7 @@
 ## 🧮 A Step-by-Step Guide with Examples (Single & Double Precision)
 
 > 📘 **Target Audience:** Computer science students, developers, and anyone curious about how computers represent real numbers.
+> **Author:** Jiayao Hu
 
 [English Version](<IEEE 754 Conversion Examples.md>) | [中文版本](<IEEE 754 Conversion Examples zh.md>)
 
